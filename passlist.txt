@@ -13,5 +13,4 @@ webadmin
 root
 system
 ubnt
-**x0fsec**
 Password
