@@ -1,0 +1,17 @@
+cisco
+Cisco
+admin
+Admin
+adminpass
+sp-admin
+admin00
+admin1234
+smcadmin
+admin123
+suadmin
+webadmin
+root
+system
+ubnt
+**x0fsec**
+Password
